@@ -1,0 +1,24 @@
+
+
+.ty{
+    background-color: chartreuse; 
+    text-align: center;
+    color: white;
+}
+.clas{
+    background-color: cadetblue;
+}
+.se{
+    background-color: green; color: white;
+}
+.rev{
+    background-color:wheat ; 
+}
+
+td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
